@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Diploma Informatics Management graduate with expertise in Web Developer and UI/UX Design. Strong knowledge and skills in web application development and attractive user interface design. Experienced in managing web development projects from start to finish, with a focus on user satisfaction and product quality. Able to combine design creativity with in-depth technical understanding to create an optimal user experience. Have good communication skill and able to work effectively in time.
 
 
 ## 🌐 Socials:
