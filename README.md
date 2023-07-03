@@ -11,7 +11,6 @@ Diploma Informatics Management graduate with expertise in Web Developer and UI/U
 ![](https://github-readme-stats.vercel.app/api?username=maulana677&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maulana677&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maulana677&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
 <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucky-bruce&layout=compact&langs_count=16&theme=dracula"/>
 
 ### ✍️ Random Dev Quote
