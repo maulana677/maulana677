@@ -10,8 +10,8 @@ Diploma Informatics Management graduate with expertise in Web Developer and UI/U
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=maulana677&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maulana677&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maulana677&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-https://github.com/anuraghazra/github-readme-stats#adding-private-contributions-count-to-total-commits-count
+![]([https://github-readme-stats.vercel.app/api/top-langs/?username=maulana677&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact](https://github.com/anuraghazra/github-readme-stats#adding-private-contributions-count-to-total-commits-count))
+
 <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucky-bruce&layout=compact&langs_count=16&theme=dracula"/>
 
 ### ✍️ Random Dev Quote
