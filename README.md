@@ -1,5 +1,9 @@
 # 💫 About Me:
-Diploma degree Informatics Management graduate with expertise in Web Developer and UI/UX Design. Strong knowledge and skills in web application development and attractive user interface design. Experienced in managing web development projects from start to finish, with a focus on user satisfaction and product quality. Able to combine design creativity with in-depth technical understanding to create an optimal user experience. Have good communication skill and able to work effectively in time.
+I am a D3 graduate of Information Management from Lampung University. Best Graduate of 2 Faculty Diploma Programs in 2022 and obtained a GPA of 3.42. Having internship experience at the Perkesmas Islamic Boarding School as a Junior Back End Developer, I learned a lot about how to complete a project with a team and teamwork to create information systems.
+
+In the field of web development, I succeeded in completing a project, namely the Financial Information System for the Perkesmas Islamic Boarding School. Apart from that, I have a training certificate for Front End Developer in 2022 and Database Design & Programming with SQL in 2023 organized by Kominfo.
+
+I can work well in a team, am able to learn new things quickly, am responsible and always ready to face new challenges.
 
 
 ## 🌐 Socials:
