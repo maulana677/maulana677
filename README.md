@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a D3 graduate of Information Management from Lampung University. Best Graduate of 2 Faculty Diploma Programs in 2022 and obtained a GPA of 3.42. Having internship experience at the Perkesmas Islamic Boarding School as a Junior Back End Developer, I learned a lot about how to complete a project with a team and teamwork to create information systems.
+I am a D3 graduate of Information Management from Lampung University. Best Graduate of 2 Faculty Diploma Programs in 2022 and obtained a GPA of 3.42. Having internship experience at the Perkemas Islamic Boarding School as a Junior Back End Developer, I learned a lot about how to complete a project with a team and teamwork to create information systems.
 
 In the field of web development, I succeeded in completing a project, namely the Financial Information System for the Perkesmas Islamic Boarding School. Apart from that, I have a training certificate for Front End Developer in 2022 and Database Design & Programming with SQL in 2023 organized by Kominfo.
 
